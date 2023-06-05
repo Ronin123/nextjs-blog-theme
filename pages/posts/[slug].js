@@ -4,7 +4,7 @@ import {
   getPostBySlug,
   getPreviousPostBySlug,
   postFilePaths,
-} from '../../utils/mdx-utils';
+} from '../../utils/mdx-utils-posts';
 
 import { MDXRemote } from 'next-mdx-remote';
 import Head from 'next/head';
